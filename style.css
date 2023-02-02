@@ -1,0 +1,33 @@
+.backgroundimage{
+  background-image: url('img/header/background-image.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: auto;
+ 
+
+}
+#forcv{
+  border-radius:20px;
+}
+.heading{
+  margin-top:15rem;
+}
+.webbtn{
+  background-color:#fef3dd;
+  border-radius: 30px;
+  color: #f6bc52;
+}
+.whotext{
+  color: #f6bc52;
+}
+.webbtn2{
+  border-radius: 30px;
+  color: #f6bc52;
+}
+.webbtn3{
+  background-color: linear-gradient(red, yellow) !important;
+  border-radius: 30px;
+}
+#mybtn{
+margin-left:30%;
+}
